@@ -13,3 +13,6 @@ Used 'CASE WHEN'  - Checks data conditions line-by-line and outputs a custom val
 
 **Data Cleaning**
 Handling missing data with 'IS NULL' operator.
+
+**Repository Structure**
+`hospital-solutions.sql` : Complete list of solutions grouped by difficulty level.
