@@ -1,5 +1,5 @@
 # SQL-Practice-Solutions
-This repository contains my complete sql database query challenges from [sql practice.com] [https://www.sql-practice.com/].
+This repository contains my complete sql database query challenges from [sql practice.com] (https://www.sql-practice.com/).
 
 **# Project-overview**
 The challenges are based on a medical/hospital database schema, focusing on data extraction, filtering and complex analytical tasks.
